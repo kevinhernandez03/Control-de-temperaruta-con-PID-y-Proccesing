@@ -1,1 +1,0 @@
-# Control-de-temperaruta-con-PID-y-Proccesing
